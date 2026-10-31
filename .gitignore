@@ -32,3 +32,6 @@ analysis_final/*
 .DS_Store
 .vscode/
 .idea/
+
+# Notebook autosave files
+.ipynb_checkpoints/
